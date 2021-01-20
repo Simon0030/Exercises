@@ -1,0 +1,7 @@
+Odpowiedzi:
+
+9. Pozwala to na inmplementacje metod w różny sposób w różnych klasach. 
+
+11. NIE
+
+12. Wykonywane są w innych wierszach kodu

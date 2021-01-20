@@ -1,0 +1,19 @@
+Odpowiedzi:
+
+12. Wywołania były takie same.
+
+14. Wywołania różniły się.
+
+16. Rzutowanie Osoba o4 jest niepoprawne.
+
+17. Ponieważ dynamic_cast działa w trakcie działania programu.
+
+19. Nie można skompilować. 
+
+22. Nie wywołuje się odpowiedni destruktor dla klas.
+
+23. Wywołuje się odpowiedni destruktor
+
+29. Może przechowywać obiekty które dziedziczą po FabrykaOsob.
+
+33. Dostaniemy segmentation fault, ponieważ atrybuty sa ustawione na nullptr.

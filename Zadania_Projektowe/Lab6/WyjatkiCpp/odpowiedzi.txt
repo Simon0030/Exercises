@@ -1,0 +1,10 @@
+Odpowiedzi:
+
+3. Dzięki noexcept nie wywołujemy innych wyjątków, natomiast override nadpisuje funkcje what().
+
+4. Ponieważ możesz stworzyć wyjątek dzięki metodzie throw().
+
+5. Program wypisał błąd "błędna operacja na stosie".
+
+6. Program wypisał błąd "Pełny stos"
+

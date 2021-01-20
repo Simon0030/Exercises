@@ -1,0 +1,7 @@
+Odpowiedzi:
+
+4. Destrukcja uaktywnia się po każdej iteracji.
+
+6. Uruchomienia takiego kodu niczego nie zmieniło.
+
+9. Program nie zwalnia pamięci.

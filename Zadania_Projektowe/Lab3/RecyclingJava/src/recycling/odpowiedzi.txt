@@ -1,0 +1,9 @@
+Odpowiedzi:
+
+5. Nie wypisano żadnego tekstu.
+
+7. Tekst jest wypisywany bez przerwy ze względu na wiekszą ilość iteracji.
+
+11. Usuwa je, ponieważ w1 oraz w2 odwołują się do nowych zmiennych.
+
+12. Lista mogłaby się okazać niewystarczająca i po prostu się przepełniać.

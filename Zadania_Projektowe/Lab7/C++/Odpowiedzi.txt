@@ -1,0 +1,3 @@
+Odpowiedzi:
+
+2. Niektóre wywołania powodują błąd kompilacji ze względu na różne typy parametrów.
